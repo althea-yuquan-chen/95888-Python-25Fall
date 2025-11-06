@@ -1,0 +1,9 @@
+Total number of earthquakes = 19925
+Average Magnitude = 4.41
+Top 5 Strongest Earthquakes
+   1. 4/1/1946, 1946 Aleutian Islands (Unimak Island), Alaska Earthquake, 8.6
+   2. 8/15/1950, 1950 Assam-Tibet Earthquake, 8.6
+   3. 2/2/1938, 1938 Banda Sea Earthquake, 8.5
+   4. 11/11/1922, 94 km ENE of Vallenar, Chile, 8.5
+   5. 2/4/1923, 121 km ESE of Mil‚Äôkovo, Russia, 8.4
+Total numbers of earthquakes deeper than 300 km = 315
