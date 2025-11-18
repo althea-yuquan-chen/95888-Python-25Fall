@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("Earthquakes_USGS_1900-1950.csv")
+data = pd.read_csv("HW1\Earthquakes_USGS_1900-1950.csv")
 total_earthquakes = len(data)
 
 # Calculate the Average magnitude across all earthquakes
